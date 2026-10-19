@@ -1,0 +1,8 @@
+[project]
+name = "bling-insights"
+version = "0.1.0"
+description = "Monitor de vendas e estoque com integração ao Bling ERP."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

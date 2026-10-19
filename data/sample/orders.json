@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1001,
+    "date": "2026-09-25",
+    "status": "concluido",
+    "items": [
+      {"product_id": 1, "product_name": "Camiseta Básica Branca P", "quantity": 3, "unit_price": 39.90},
+      {"product_id": 5, "product_name": "Ecobag Lona Crua", "quantity": 2, "unit_price": 24.90}
+    ]
+  },
+  {
+    "id": 1002,
+    "date": "2026-09-28",
+    "status": "concluido",
+    "items": [
+      {"product_id": 2, "product_name": "Camiseta Básica Preta M", "quantity": 5, "unit_price": 39.90}
+    ]
+  },
+  {
+    "id": 1003,
+    "date": "2026-10-01",
+    "status": "concluido",
+    "items": [
+      {"product_id": 4, "product_name": "Boné Trucker Logo", "quantity": 4, "unit_price": 49.90},
+      {"product_id": 3, "product_name": "Caneca Personalizada", "quantity": 6, "unit_price": 29.90}
+    ]
+  },
+  {
+    "id": 1004,
+    "date": "2026-10-03",
+    "status": "cancelado",
+    "items": [
+      {"product_id": 6, "product_name": "Moletom Capuz Cinza G", "quantity": 1, "unit_price": 119.90}
+    ]
+  },
+  {
+    "id": 1005,
+    "date": "2026-10-05",
+    "status": "concluido",
+    "items": [
+      {"product_id": 1, "product_name": "Camiseta Básica Branca P", "quantity": 10, "unit_price": 39.90},
+      {"product_id": 5, "product_name": "Ecobag Lona Crua", "quantity": 8, "unit_price": 24.90}
+    ]
+  },
+  {
+    "id": 1006,
+    "date": "2026-10-08",
+    "status": "concluido",
+    "items": [
+      {"product_id": 2, "product_name": "Camiseta Básica Preta M", "quantity": 12, "unit_price": 39.90},
+      {"product_id": 4, "product_name": "Boné Trucker Logo", "quantity": 6, "unit_price": 49.90}
+    ]
+  },
+  {
+    "id": 1007,
+    "date": "2026-10-10",
+    "status": "concluido",
+    "items": [
+      {"product_id": 3, "product_name": "Caneca Personalizada", "quantity": 9, "unit_price": 29.90}
+    ]
+  },
+  {
+    "id": 1008,
+    "date": "2026-10-12",
+    "status": "concluido",
+    "items": [
+      {"product_id": 6, "product_name": "Moletom Capuz Cinza G", "quantity": 3, "unit_price": 119.90},
+      {"product_id": 1, "product_name": "Camiseta Básica Branca P", "quantity": 4, "unit_price": 39.90}
+    ]
+  },
+  {
+    "id": 1009,
+    "date": "2026-10-15",
+    "status": "concluido",
+    "items": [
+      {"product_id": 5, "product_name": "Ecobag Lona Crua", "quantity": 15, "unit_price": 24.90}
+    ]
+  },
+  {
+    "id": 1010,
+    "date": "2026-10-17",
+    "status": "concluido",
+    "items": [
+      {"product_id": 2, "product_name": "Camiseta Básica Preta M", "quantity": 7, "unit_price": 39.90},
+      {"product_id": 4, "product_name": "Boné Trucker Logo", "quantity": 3, "unit_price": 49.90}
+    ]
+  }
+]

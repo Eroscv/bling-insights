@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "Camiseta Básica Branca P", "sku": "CAM-BR-P", "stock": 42, "min_stock": 10, "unit_price": 39.90},
+  {"id": 2, "name": "Camiseta Básica Preta M", "sku": "CAM-PR-M", "stock": 3, "min_stock": 10, "unit_price": 39.90},
+  {"id": 3, "name": "Caneca Personalizada", "sku": "CAN-PERS", "stock": 15, "min_stock": 15, "unit_price": 29.90},
+  {"id": 4, "name": "Boné Trucker Logo", "sku": "BON-TRK", "stock": 2, "min_stock": 8, "unit_price": 49.90},
+  {"id": 5, "name": "Ecobag Lona Crua", "sku": "ECO-LONA", "stock": 60, "min_stock": 12, "unit_price": 24.90},
+  {"id": 6, "name": "Moletom Capuz Cinza G", "sku": "MOL-CZ-G", "stock": 7, "min_stock": 6, "unit_price": 119.90}
+]
